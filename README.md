@@ -1,0 +1,2 @@
+# SREEZE-Saving-Realtime-Energy-And-Efficiency-With-Area-Engagement
+Our innovation is called SREEZE: Savings Real-Time and Efficiency with Area Engagement. It utilizes motion-detection technology embedded in electronic devices, enabling the system to detect movement and automatically activate electronic equipment simultaneously. By leveraging IoT and low-frequency radio signals for one-way communication.
